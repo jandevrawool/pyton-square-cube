@@ -1,3 +1,3 @@
 num = int(input("Enter a number: "))
-square = num * num
-print("Square of the number is:", square)
+cube = num * num * num
+print("cube of the number is:", cube)
